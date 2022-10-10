@@ -4,7 +4,7 @@
 
  
 
-## LiveLink -- [Law-Home-Page](https://crypto-landing-page-yashshamnani.netlify.app/)
+## LiveLink -- [Law-Home-Page](https://law-home-page-yash-shamnani.netlify.app/)
 
 
 
